@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Mahin Tabassum! 👋
 
-<!--
-**mahint27/mahint27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and communication Engineering (ECE) Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in technology, Embedded Systems and Microcontrollers. I enjoy learning new concepts and working on practical projects to improve my technical skills.
+
+## 💻 Technical Skills
+
+- C Programming
+- Python
+- Microsoft Excel
+- Embedded C (Basics)
+- STM32 Microcontrollers
+
+## 🚀 My Projects
+
+- **LED Blinking using STM32:** GPIO programming using STM32 Nucleo-F401RE.
+- **Touch Sensor Controlled LED:** Interfacing a touch sensor with STM32.
+- **Embedded Systems Lab Projects:** Hands-on practice with microcontrollers and GPIO.
+
+## 🌱 Currently Learning
+
+- Microcontrollers and Microprocessors
+- Embedded C Programming
+- GPIO, UART, SPI and I2C
+- Embedded Systems
+
+## 🎯 Career Interests
+
+I'm looking forward to learning, exploring and building my career in the IT and Embedded Systems field.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/mahint27
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+
+⭐ Thank you for visiting
