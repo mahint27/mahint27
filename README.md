@@ -34,7 +34,7 @@ I'm looking forward to learning, exploring and building my career in the IT and 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/mahint27
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: https://www.linkedin.com/in/mahin-tabassum-m?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
